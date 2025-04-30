@@ -20,7 +20,7 @@ function multiplicar(){
     const n1=Number(readline.question("informe o primeiro numero:"))
 const n2=Number(readline.question("informe o segundo numero:"))
   n3= n1*n2;
-console.log(`${n1}*${n2}=${n3}`)
+console.log(`${n1}x${n2}=${n3}`)
 
 }
 function dividir(){
